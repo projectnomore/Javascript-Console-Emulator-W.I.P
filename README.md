@@ -1,5 +1,6 @@
-# Javascript-Console-Emulator-W.I.P
-emulates the javascript console so you can run code on school computers
+# Console Emulator Bypass
+emulates the js console so you can use the console on blocked computers.
 
-## this makes stuff compatable like
-delta math hacks
+## tested on
+firefox
+google chrome
