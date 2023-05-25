@@ -2,10 +2,13 @@
 emulates the js console so you can use the console on blocked computers.
 
 ## tested on
-- firefox!
-- google chrome
-### chromeos school chromebook
-fetch2.js - injects into HTML of google.com
+tested with google.com
+### Firefox for Mac
+opens in new window as about:blank
+### Google Chrome for ChromeOS (not enrolled)
+opens in new window as about:blank
+### Google Chrome for ChromeOS (enrolled)
+injects into HTML at the bottom
 
 ## screenshots
 Firefox - Thu May 25 9:09 AM<br>
