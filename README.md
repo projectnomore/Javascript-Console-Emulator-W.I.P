@@ -7,5 +7,5 @@ emulates the js console so you can use the console on blocked computers.
 
 ## screenshots
 Firefox - Thu May 25 9:09 AM<br>
-[FirefoxAsset](https://github.com/projectnomore/Javascript-Console-Emulator-W.I.P/assets/119540345/fd1fd2a9-d5db-402b-b485-22d0c8a40fce)
+[FirefoxAsset](https://github.com/projectnomore/Javascript-Console-Emulator-W.I.P/assets/Screen Shot 2023-05-25 at 9.08.03 AM.png)
 
